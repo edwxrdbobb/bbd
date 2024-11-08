@@ -4,7 +4,6 @@ import Link from 'next/link'
 import { 
   ArrowDownRight,
   ArrowUpRight,
-  Bell, 
   ChevronRight,
   ClipboardList,
   FileText,
@@ -12,10 +11,8 @@ import {
   HelpCircle,
   Home,
   LayoutGrid,
-  Mail,
   Monitor,
   PieChart,
-  Settings,
   Table,
   Users,
   FileSpreadsheet,
