@@ -30,7 +30,7 @@ export default function WorkspacesPage() {
               </div>
             </Link>
             <Link
-              href="/workspaces/1"
+              href="/workspace/dashboard"
               className="flex h-48 flex-col justify-between rounded-lg bg-[#0095FF] p-6 text-white hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
             >
               <div>

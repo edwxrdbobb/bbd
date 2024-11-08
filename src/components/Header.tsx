@@ -38,9 +38,9 @@ export default function Header() {
             Workspace
           </Link>
 
-          <Link href='/workspace/dashboard' className="rounded-md px-4 py-1.5 text-sm font-medium text-blue-700 hover:bg-blue-200">
+          {/* <Link href='/workspace/dashboard' className="rounded-md px-4 py-1.5 text-sm font-medium text-blue-700 hover:bg-blue-200">
             Dashboard
-          </Link>
+          </Link> */}
 
           <Link href='/auth/login' className="rounded-md px-4 py-1.5 text-sm font-medium text-blue-700 hover:bg-blue-200">
             Login
